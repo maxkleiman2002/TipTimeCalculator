@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="costService">Вартість обслуговування</string>
+    <string name="serviceQuestion">Як пройшла служба ?</string>
+    <string name="amazing_radBut">Чудово (20%)</string>
+    <string name="good_radBut">Добре (18%)</string>
+    <string name="ok_radBut">Непогано (15%)</string>
+    <string name="roundUPString">Заокруглити ?</string>
+    <string name="calculateString">Розрахувати</string>
+    <string name="tip_amount">Сума чайових: %s</string>
+</resources>
